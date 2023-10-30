@@ -4,7 +4,7 @@ Note: Create button for colors and fonts while clicking color or font button sho
 
 ## AIM:
 
-To create an application that uses GUI Components with Fonts and Colors using Android Studio.
+To create an application that uses GUI Components with Fonts and Colors using Android Studio. 
 
 ## EQUIPMENTS REQUIRED:
 
