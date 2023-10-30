@@ -3,7 +3,7 @@
 
 ## AIM:
 
-To create a navigate button using Implicit Intent to display the google page using Android Studio.
+To create a navigate button using Implicit Intent to display the google page using Android Studio. 
 
 ## EQUIPMENTS REQUIRED:
 
