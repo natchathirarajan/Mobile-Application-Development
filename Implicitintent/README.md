@@ -3,7 +3,7 @@
 
 ## AIM:
 
-To create a navigate button using Implicit Intent to display the google page using Android Studio. 
+To create a navigate button using Implicit Intent to display the google page using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
 
@@ -24,6 +24,8 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
+
+
 
 ## PROGRAM:
 Program to print the text “Implicitintent”.
@@ -110,10 +112,15 @@ Developed by: V.Natchathira Rajan
 
 Registeration Number : 212221040112
 
+
 ## OUTPUT
+![Screenshot (206)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/97a10ea1-909f-432e-8d91-cd77ce4dc9a0)
 
-![WhatsApp Image 2023-09-05 at 13 56 54](https://github.com/ThiruThanikaiarasu/Mobile-Application-Development/assets/126568917/8c8cb812-3727-4944-8947-d379acc022a6)
+![Screenshot (209)](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/213f3179-eba2-4528-8871-1d5d83e2a9fc)
 
+![ex3 1](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/b755bfbc-e276-4cbc-85a0-df76e5b9a8e6)
+
+![ex3 2](https://github.com/Aishwarya-TM/Mobile-Application-Development/assets/127846109/d91d010f-a6fc-4ca2-95c5-b2d5ecbc2f3b)
 
 
 ## RESULT
